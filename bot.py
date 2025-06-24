@@ -45,7 +45,7 @@ def disable_testing_mode():
 
 bot = telebot.TeleBot(API_TOKEN)
 
-QDRANT_DB_PATH = "/home/ro0ty/Dev/WPTPythonBot/QDRANT/qdrant_data_USER-bge-m3_2000-200"
+QDRANT_DB_PATH = "/QDRANT/qdrant_data_USER-bge-m3_2000-200"
 DOCUMENTS_PATH = "documents"
 SUPPORT_DATA_FILE = "support_data.json"
 LOGS_FILE = "query_logs.json"
