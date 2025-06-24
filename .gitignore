@@ -1,0 +1,9 @@
+
+/embedder_results
+/OldLogs
+/query_logs_analysis
+/venv
+test.py
+test.txt
+test_rag_preprocessing.py
+/__pycache__

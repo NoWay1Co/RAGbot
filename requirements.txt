@@ -1,0 +1,8 @@
+pyTelegramBotAPI==4.15.2
+sentence-transformers==2.5.0
+qdrant-client==1.9.0
+langchain==0.1.7
+langchain-community==0.0.21
+pypdf==4.0.2
+yandex-cloud-ml-sdk==0.2.5
+torch>=2.0.0 

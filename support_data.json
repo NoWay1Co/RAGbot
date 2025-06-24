@@ -1,0 +1,14 @@
+{
+  "1234567890": {
+    "in_support_mode": true,
+    "prompt_message_id": 1234567890,
+    "user_info": "<b>Пользователь:</b> username (@username)\n<b>ID:</b> <code>1234567890</code>",
+    "username": "username",
+    "first_name": "username",
+    "last_name": "",
+    "time_created": 1748965677.1838026,
+    "topic_message_id": 123,
+    "topic_name": "username | Номер тикета: 123",
+    "first_message_id": 1234567890
+  }
+}
